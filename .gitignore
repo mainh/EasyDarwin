@@ -11,3 +11,4 @@ node_modules
 /*.dev.ini
 /*.dev.db
 .idea
+/EasyDarwin-Go.exe
